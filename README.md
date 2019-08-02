@@ -1,2 +1,3 @@
 # machine-learning-self-learning-code
 I am learning machine learning all by myself. And I really want to record every machine-learning algorithm I have learned by uploading my self-made python code for each algorithm. Hopefully I can enjoy myself through the study and help myself achieve the goal of becoming a great data scientist!
+I have recently knew how to build file folder in the repository and I have classified some of my python scripts which will help clear my thoughts and help me find my files more efficiently! Hope you guys can help me build this branch and enjoy the fun of acquiring machine learning knowledge!!!
